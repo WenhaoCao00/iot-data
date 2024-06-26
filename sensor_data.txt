@@ -1,0 +1,528 @@
+2023-06-26 21:59:49
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 21:59:52
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 82.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 21:59:55
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 82.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 21:59:58
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 82.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:01
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:04
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:07
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:10
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:13
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:16
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:19
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:22
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:25
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:28
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:31
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:34
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:37
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:40
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:43
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:46
+Air Temperature: 25.200000762939453
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:49
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:52
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:55
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:00:58
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:01
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:04
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:07
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:10
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:13
+Air Temperature: 25.100000381469727
+Illuminance: 0.-1
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:16
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:19
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:22
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:25
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:28
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:31
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:34
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:37
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:40
+Air Temperature: 25.100000381469727
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:43
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:46
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:49
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:52
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:55
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:01:58
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 83.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:01
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:04
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:07
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:10
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:13
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:16
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:19
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:22
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:25
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:28
+Air Temperature: 25.0
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:31
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:34
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:37
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:40
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:43
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:46
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:49
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:52
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:55
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:02:58
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:01
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:04
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:07
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:10
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:13
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:16
+Air Temperature: 24.899999618530273
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:19
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:22
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:25
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 84.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:28
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:31
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:34
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:37
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:40
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:43
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:46
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:49
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:52
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:55
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:03:58
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:04:01
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:04:04
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:04:07
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
+2024-06-26 22:04:10
+Air Temperature: 24.799999237060547
+Illuminance: 0.0
+Humidity: 85.0
+Ultraviolet: 0.0
+---------------------------------
